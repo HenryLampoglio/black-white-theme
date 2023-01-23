@@ -1,0 +1,57 @@
+:root {
+	--dark: #292C35;
+	--light: #F1F1F1;
+	--label: #111;
+}
+
+main{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.white{
+    background-color: var(--light);
+    transition: all 1s ease-in;
+}
+
+.dark{
+    background-color: var(--dark);
+    transition: all 1s ease-in;
+}
+
+.button{
+    border-radius: 50px;
+    width: 90px;
+    height: 40px;
+    background-color: var(--label);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 3px;
+}
+
+.button:hover{
+    cursor: pointer;
+}
+
+.circle{
+width: 35px;
+height: 35px;
+background-color: white;
+border-radius: 50%;
+position: absolute;
+}
+
+
+.button .circle{
+transition: all 0.5s ease;
+}
+
+
+
+.button.active .circle{
+    margin-left: 49px;
+}
