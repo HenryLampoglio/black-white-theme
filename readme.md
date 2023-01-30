@@ -1,13 +1,13 @@
-<h1>Light-Dark theme</h1>
+<center><h1>Light-Dark theme</h1></center>
 <hr>
-    <h2>Project<h2>
+    <center><h2>Project<h2></center>
     a simple challenge created to add a change theme button in the project
-    <h2>tools used<h2>
+   <center><h2>tools used<h2></center>
 <ul>    
-<li>-HTML5</li>
-<li>-CSS</li>
-<li>-Javascript</li>
+<li>HTML5</li>
+<li>CSS</li>
+<li>Javascript</li>
 </ul>
-<h2>layout</h2>
+<center><h2>layout</h2></center>
 
 ![](images/preview.gif)
