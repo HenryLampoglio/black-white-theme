@@ -1,4 +1,4 @@
-<h1 align="center">Light-Dark theme</h1>
+<h1 align="center">Light-Dark Theme</h1>
 <hr>
     <h2 align="center">Project</h2>
     <p align="center">a simple challenge created to add a change theme button in a project</p>
