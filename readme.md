@@ -9,3 +9,6 @@ A simple challenge created to add a change theme button in a project
 <h2 align="center">Layout</h2>
 
 ![](images/preview.gif)
+
+<h2>License</h2>
+MIT License
